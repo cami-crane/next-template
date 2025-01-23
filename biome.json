@@ -7,12 +7,7 @@
   },
   "files": {
     "ignoreUnknown": false,
-    "ignore": [
-      "**/node_modules/**",
-      "./dist/**",
-      "./coverage/**",
-      "./tsconfig.json"
-    ]
+    "ignore": ["**/node_modules/**", "./coverage/**", "./tsconfig.json"]
   },
   "formatter": {
     "enabled": true,
